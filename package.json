@@ -18,6 +18,13 @@
   "homepage": "https://github.com/vinaykumarnelli-vk/playwright-js-framework#readme",
   "devDependencies": {
     "@playwright/test": "^1.61.1",
-    "@types/node": "^26.1.0"
+    "@types/node": "^26.1.0",
+    "eslint": "^10.6.0",
+    "prettier": "^3.9.4"
+  },
+  "dependencies": {
+    "allure-playwright": "^3.10.2",
+    "dotenv": "^17.4.2",
+    "winston": "^3.19.0"
   }
 }
