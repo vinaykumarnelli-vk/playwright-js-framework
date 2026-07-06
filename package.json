@@ -1,0 +1,23 @@
+{
+  "name": "playwright-js-framework",
+  "version": "1.0.0",
+  "description": "Production-grade Playwright Automation Framework using JavaScript, Page Object Model, Allure Reports and GitHub Actions.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinaykumarnelli-vk/playwright-js-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vinaykumarnelli-vk/playwright-js-framework/issues"
+  },
+  "homepage": "https://github.com/vinaykumarnelli-vk/playwright-js-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.0"
+  }
+}
